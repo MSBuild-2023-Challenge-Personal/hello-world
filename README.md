@@ -69,7 +69,7 @@ Resources for working with exercises and GitHub Actions in general:
 - [_Encrypted secrets_ in Github Docs]
 
 <!--
-Links used throughout this README:
+Links used throughout this README: 
 -->
 <!-- Edit the links below to be relevant -->
 
